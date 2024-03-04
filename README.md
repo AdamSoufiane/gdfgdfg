@@ -1,0 +1,1 @@
+This shred represents a Spring Boot microservice feature that handles a single functionality, adhering to Hexagonal Architecture principles. It includes an application layer for coordinating operations, a domain layer for business logic, and an infrastructure layer for interfacing with external syst
